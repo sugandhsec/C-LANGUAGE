@@ -3,6 +3,7 @@
 #include <math.h>
 #define PI 3.1416
 #define MAX 180
+
 void main ( )
 {
 int angle;
